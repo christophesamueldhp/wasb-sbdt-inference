@@ -3,3 +3,5 @@
 /inference_scipts/__pycache__/*.pyc
 /model_definitions/__pycache__/*.pyc
 /venv
+*.mp4
+*.csv
